@@ -1,11 +1,9 @@
 <?php
 /*
 Plugin Name: OS Repeater
-Plugin URI: http://www.horizondml.co.uk/
 Description: Adds a repeater field to the admin 
 Version: 0.1
 Author: Oli Salisbury
-Author URI: http://www.horizondml.co.uk/
 */
 
 //get repeater values and decode
